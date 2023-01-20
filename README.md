@@ -1,4 +1,4 @@
-# guestlist
+# Aplicativo Guest List
 Aplicativo feito para o curso de React Native da Rocket Seat
 
 O aplicativo serve ao fim de fazer uma lista de convidados para um evento, sendo possível:
