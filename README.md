@@ -9,3 +9,5 @@ Primeiro aplicativo criado, serviu pedagogicamente como introdução ao React Na
 de componentes e hooks, além da estilização padrão.
 
 Abaixo, algumas imagens do funcionamento do aplicativo em um emulador Android
+
+![Captura de tela 2023-01-20 015440](https://user-images.githubusercontent.com/122949706/213627219-e55145c1-5640-4d24-91f1-9766b2393422.png)
